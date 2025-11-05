@@ -68,33 +68,31 @@ Custom Suricata IDS rule creation and log analysis (fast.log &amp; eve.json) Goo
 
 ---
 
+## Screenshots
 
-## لقطات الشاشة
+### 1. تجهيز البيئة
+![initial_environment](Screenshots/initial_environment.jpg)
 
-### البيئة الأولية
-![البيئة الأولية](لقطات الشاشة/ initial_environment.jpg )
+### 2. فتح وتعديل القواعد custom.rules
+![open_custo_rules](Screenshots/open_custo_rules.jpg)
 
-### فتح القواعد المخصصة
-![فتح القواعد المخصصة](لقطات الشاشة/ open_custo_rules.jpg )
+### 3. إتمام المهمة 1
+![task_1_completed](Screenshots/task_1_completed.jpg)
 
-### المهمة 1 مكتملة
-![المهمة 1 مكتملة](لقطات الشاشة/ task_1_completed.jpg )
+### 4. إتمام المهمة 2
+![task_2_completed](Screenshots/task_2_completed.jpg)
 
-### المهمة 2 مكتملة
-![المهمة 2 مكتملة](لقطات الشاشة/ task_2_completed.jpg )
+### 5. أسئلة المهمة (جزء 1)
+![answer_question](Screenshots/answer_question.jpg)
 
-### الإجابة على السؤال (الجزء 1)
-![الإجابة على السؤال](لقطات الشاشة/ answer_question.jpg )
+### 6. أسئلة المهمة (جزء 2)
+![question_answers](Screenshots/question_answers.jpg)
 
-### الإجابة على السؤال (الجزء 2)
-![إجابات السؤال](لقطات الشاشة/ question_answers.jpg )
+### 7. إتمام المهمة 3
+![task_3_completed](Screenshots/task_3_completed.jpg)
 
-### المهمة 3 مكتملة
-![المهمة 3 مكتملة](لقطات الشاشة/ task_3_completed.jpg )
-
-### الإكمال النهائي للمختبر
-![المختبر النهائي الإكمال](لقطات الشاشة/ lab_final_completion.jpg )
-
+### 8. إكمال اللاب والحصول على الشهادة
+![lab_final_completion](Screenshots/lab_final_completion.jpg)
 ## اللي اتعلمته من اللاب
 
 - إزاي أشغل Suricata على pcap file
